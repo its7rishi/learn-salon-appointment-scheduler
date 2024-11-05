@@ -67,3 +67,4 @@ psql --username=freecodecamp --dbname=postgres
 chmod +x salon.sh
 clear
 ./salon.sh
+clear
